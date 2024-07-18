@@ -1,0 +1,13 @@
+package com.le.leojbackendjudgeservice;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class LeojBackendJudgeServiceApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(LeojBackendJudgeServiceApplication.class, args);
+    }
+
+}
