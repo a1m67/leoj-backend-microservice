@@ -158,7 +158,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <version>${spring-boot.version}</version>
                 <configuration>
-                    <mainClass>com.le.leojbackendmicroservice.LeojBackendMicroserviceApplication</mainClass>
+                    <mainClass>com.le.leojbackendserviceclient.service.src.main.java.com.le.leojbackendmicroservice.LeojBackendMicroserviceApplication</mainClass>
                     <skip>true</skip>
                 </configuration>
                 <executions>
